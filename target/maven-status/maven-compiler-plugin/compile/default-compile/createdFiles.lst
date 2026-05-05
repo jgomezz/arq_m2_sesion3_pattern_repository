@@ -1,5 +1,0 @@
-pe/edu/tecsup/mvc/app/AppApplication.class
-pe/edu/tecsup/mvc/app/repository/TaskRepository.class
-pe/edu/tecsup/mvc/app/entity/Task.class
-pe/edu/tecsup/mvc/app/controller/TaskController.class
-pe/edu/tecsup/mvc/app/service/TaskService.class
