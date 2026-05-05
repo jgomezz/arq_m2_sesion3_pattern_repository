@@ -1,17 +1,15 @@
 package pe.edu.tecsup.mvc.app.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 import pe.edu.tecsup.mvc.app.entity.Task;
 
-import java.util.*;
-
+//*
 @Repository
 public interface TaskRepository extends JpaRepository<Task, Long> {
 
 }
-
+//*/
 
 /*
 @Repository
@@ -50,4 +48,4 @@ public class TaskRepository {
         tasks.remove(id);
     }
 }
-*/
+//*/
